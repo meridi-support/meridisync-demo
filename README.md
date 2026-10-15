@@ -20,6 +20,13 @@ No download. No signup. No ads. Just try it.
 | 🌍 Gumroad ($8) | [Buy on Gumroad](https://meridius4.gumroad.com/l/meridisync) |
 | 🇯🇵 BOOTH (¥1,000) | [Buy on BOOTH](https://meridistore.booth.pm/items/6512912) |
 
+## 🐾 More from Meridi
+
+| Tool | Description | Link |
+|------|-------------|------|
+| 🪄 **[MeridiLingo](https://github.com/meridi-support/meridi-lingo)** | Learn English Through Pop Culture | [BOOTH ¥500](https://meridistore.booth.pm/items/8992102) / [Gumroad $3](https://meridius4.gumroad.com/l/meridilingo) |
+| 🌐 **[MeridiMeet](https://github.com/meridi-support/meridimeet)** | Multi-Timezone Scheduler | [Free](https://meridi-support.github.io/meridimeet/) |
+
 ## 🔧 Full Version Includes
 
 - Multi-step Wizards (Back/Next navigation)
