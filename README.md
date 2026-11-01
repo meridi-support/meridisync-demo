@@ -6,6 +6,14 @@ No download. No signup. No ads. Just try it.
 
 🔗 **[Launch Demo](https://meridi-support.github.io/meridisync-demo/)**
 
+---
+
+## 🌐 Visit Us
+
+**[meridibrand.com](https://meridibrand.com)** — Our official home since November 1st, 2026.
+
+---
+
 ## ✨ What You Can Try
 
 - Type a trigger (e.g. `.today`) + Space → instant expansion
@@ -18,14 +26,7 @@ No download. No signup. No ads. Just try it.
 | Store | Link |
 |-------|------|
 | 🌍 Gumroad ($8) | [Buy on Gumroad](https://meridius4.gumroad.com/l/meridisync) |
-| 🇯🇵 BOOTH (¥1,000) | [Buy on BOOTH](https://meridistore.booth.pm/items/6512912) |
-
-## 🐾 More from Meridi
-
-| Tool | Description | Link |
-|------|-------------|------|
-| 🪄 **[MeridiLingo](https://github.com/meridi-support/meridi-lingo)** | Learn English Through Pop Culture | [BOOTH ¥500](https://meridistore.booth.pm/items/8992102) / [Gumroad $3](https://meridius4.gumroad.com/l/meridilingo) |
-| 🌐 **[MeridiMeet](https://github.com/meridi-support/meridimeet)** | Multi-Timezone Scheduler | [Free](https://meridi-support.github.io/meridimeet/) |
+| 🇯🇵 BOOTH (¥1,000) | [Buy on BOOTH](https://meridistore.booth.pm/items/8790105) |
 
 ## 🔧 Full Version Includes
 
@@ -37,17 +38,38 @@ No download. No signup. No ads. Just try it.
 - 100% Offline — No ads, no tracking
 - Open to modding (MIT License)
 
+---
+
+## 🌐 Meridi Family
+
+| Tool | Description | Link | Live Demo |
+|------|-------------|------|-----------|
+| 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
+| 📅 **MeridiMeet** | Multi-Timezone Scheduler | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/6340573) | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾🪄 **MeridiLingo** | 450 expressions — Learn English Through Pop Culture | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 🗺️ **MeridiAtlas** | GIS for the Rest of Us | In Development | — |
+| 📔 **MeridiDiary** | Your Journey, Your Map | Planned | — |
+| 🎮 **MeridiPlay** | Fun & Games Collection | Coming Soon | — |
+
+---
+
 ## 💬 Feedback & Community
 
 Got thoughts? We'd love to hear from you:
 
 - 💬 [Join the Discussion](https://github.com/meridi-support/meridi-square/discussions)
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/meridius)
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/meridius)
 - 📧 meridisupport@gmail.com
 
 ---
 
-*"All our tools are vessels. What you fill them with is up to you."*
+## 📄 License
 
-🐟 Keep swimming.
+MIT License — Use it, modify it, share it. 🐟 Keep swimming.
+
+---
+
+*No Ads. No Subscriptions. Just Tools.* 🐾
+
+**Meridi Brand © 2026 — Since November 1st, 2026**
 
