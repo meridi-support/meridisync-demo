@@ -44,12 +44,20 @@ No download. No signup. No ads. Just try it.
 
 | Tool | Description | Link | Live Demo |
 |------|-------------|------|-----------|
-| 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
-| 📅 **MeridiMeet** | Multi-Timezone Scheduler | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/6340573) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** | 450 expressions — Learn English Through Pop Culture | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 📅 **MeridiMeet** | Multi-Timezone Scheduler | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) / [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾🪄 **MeridiLingo** | 760+ expressions & AI prompts — Language, Culture & AI Prompt Vocabulary | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) / [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 💻 **MeridiSync** | High-speed snippet manager (Windows) | [Gumroad (\$8)](https://meridius4.gumroad.com/l/meridisync) / [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
+| 🌌 **MeridiStars** | Planetarium — 88 constellations, 119 locations | Free | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| 🪨 **MeridiGround** | From the sky to Earth's core — rock strata, fossils & the mantle | Coming Soon | — |
+| 🌊 **MeridiDepths** | Dive to the deepest ocean — 230+ sea creatures, shipwrecks & records, 11 deep places | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
+| 🎮 **MeridiPlay** | 18 browser games — casino, fortune-telling, retro candy-shop machines | Free | [meridibrand.com/play](https://meridibrand.com/play) |
+| 🧮 **MeridiConvert** | Unit converter, graph-paper drafting & handy calculators | Free | [meridibrand.com/convert](https://meridibrand.com/convert) |
 | 🗺️ **MeridiAtlas** | GIS for the Rest of Us | In Development | — |
 | 📔 **MeridiDiary** | Your Journey, Your Map | Planned | — |
-| 🎮 **MeridiPlay** | Fun & Games Collection | Coming Soon | — |
+
+---
+
+📅 MeridiMeet → 🐾 MeridiLingo → 💻 MeridiSync → 🌌 MeridiStars → 🪨 MeridiGround → 🌊 MeridiDepths → 🎮 MeridiPlay → 🧮 MeridiConvert → 🗺️ MeridiAtlas → 📔 MeridiDiary
 
 ---
 
